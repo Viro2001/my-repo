@@ -1,10 +1,13 @@
 {
-  "name": "@viro/my-repo",
+  "name": "@viro2001/my-repo",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Viro2001/my-commons-repo.git"
+    "url": "https://github.com/Viro2001/my-repo.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "workspaces": [
     "packages/*"
