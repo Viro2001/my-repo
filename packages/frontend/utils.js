@@ -1,0 +1,1 @@
+export const registeredComponents = ['my-button', 'product-card'];
