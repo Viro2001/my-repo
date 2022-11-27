@@ -1,6 +1,7 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@viro/my-repo",
+  "version": "1.0.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Viro2001/my-commons-repo.git"
